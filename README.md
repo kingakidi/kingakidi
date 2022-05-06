@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/kingakidi](github.com/kingakidi)
 
-- 💬 Ask me about **React, Vue, Node, Laravel, React Native and their perquisites**
+- 💬 Ask me about **React, Vue, Node, Laravel & React Native**
 
 - 📫 How to reach me **sydeestack@gmail.com**
 
