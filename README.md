@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Musa Al-Kazim</h1>
+<h1 align="center">Hi 👋, I'm Musa Aka'aba</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/thekingakidi" target="blank"><img src="https://img.shields.io/twitter/follow/thekingakidi?logo=twitter&style=for-the-badge" alt="thekingakidi" /></a> </p>
