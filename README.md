@@ -4,8 +4,8 @@ COEN 554 Question One (Individual): multi-page personal portfolio built with **H
 
 ## Live site
 
-- **Host:** https://kingakidi.github.io/akaaba/
-- **Code:** https://github.com/kingakidi/akaaba
+- **Host:** https://kingakidi.github.io/
+- **Code:** https://github.com/kingakidi/kingakidi.github.io
 
 ## Pages
 
