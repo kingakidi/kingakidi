@@ -1,0 +1,161 @@
+{
+  "site": {
+    "owner": "Aka'aba Musa Akidi",
+    "role": "Future Computer Engineer",
+    "institution": "Ahmadu Bello University, Zaria",
+    "department": "Department of Computer Engineering",
+    "level": "500 Level",
+    "location": "Zaria, Kaduna State, Nigeria",
+    "email": "me.akaaba@gmail.com",
+    "phone": "+234 706 435 5463",
+    "linkedin": "https://www.linkedin.com/in/akaabamusaakidi",
+    "github": "https://github.com/kingakidi",
+    "github_username": "kingakidi",
+    "graduation_year": 2026
+  },
+  "projects": [
+    {
+      "id": "proj-001",
+      "title": "Fingerprint AI Attendance Verification System",
+      "date": "2026",
+      "category": "AI / Backend",
+      "description": "Backend for a fingerprint-based AI attendance verification system. Includes Django admin tooling and secure super-admin provisioning for institutional deployment.",
+      "tech": ["Python", "Django", "AI"],
+      "image_url": "assets/images/project-attendance.svg",
+      "link": "https://github.com/kingakidi/500-ai-project-backend"
+    },
+    {
+      "id": "proj-002",
+      "title": "AI Project Frontend",
+      "date": "2026",
+      "category": "Full-Stack / Vue",
+      "description": "Companion Vue frontend for the 500-level AI attendance project, connecting users to verification workflows and administrative views.",
+      "tech": ["Vue", "TypeScript", "REST API"],
+      "image_url": "assets/images/project-ai-frontend.svg",
+      "link": "https://github.com/kingakidi/500-ai-project-frontend"
+    },
+    {
+      "id": "proj-003",
+      "title": "Deep Learning Project",
+      "date": "2026",
+      "category": "Machine Learning",
+      "description": "500-level deep learning coursework project exploring neural network models and applied experimentation for computer engineering problem spaces.",
+      "tech": ["Python", "Deep Learning"],
+      "image_url": "assets/images/project-dl.svg",
+      "link": "https://github.com/kingakidi/500-level-deep-learning-project"
+    },
+    {
+      "id": "proj-004",
+      "title": "NLP Project",
+      "date": "2026",
+      "category": "Natural Language Processing",
+      "description": "Applied natural language processing project focused on text processing pipelines and intelligent language-based solutions.",
+      "tech": ["Python", "NLP"],
+      "image_url": "assets/images/project-nlp.svg",
+      "link": "https://github.com/kingakidi/500-level-nlp-project"
+    },
+    {
+      "id": "proj-005",
+      "title": "Django REST Blog API",
+      "date": "2025",
+      "category": "Backend / API",
+      "description": "Production-oriented blog API with JWT auth, posts, comments, likes, Swagger docs, Docker packaging, and Railway deployment.",
+      "tech": ["Django REST", "JWT", "MySQL", "Docker"],
+      "image_url": "assets/images/project-blog.svg",
+      "link": "https://github.com/kingakidi/django-rest-blog-api"
+    },
+    {
+      "id": "proj-006",
+      "title": "Student Clearance System",
+      "date": "2021",
+      "category": "Web Application",
+      "description": "College student clearance system that digitises outgoing-student clearance workflows for academic institutions.",
+      "tech": ["HTML", "CSS", "Web Forms"],
+      "image_url": "assets/images/project-clearance.svg",
+      "link": "https://github.com/kingakidi/student-clearance-system"
+    },
+    {
+      "id": "proj-007",
+      "title": "Digital Malamai Backend",
+      "date": "2026",
+      "category": "Backend / TypeScript",
+      "description": "TypeScript backend service supporting digital platform workflows for the Malamai product line.",
+      "tech": ["TypeScript", "Node.js"],
+      "image_url": "assets/images/project-malamai.svg",
+      "link": "https://github.com/kingakidi/digital-malamai-backend"
+    },
+    {
+      "id": "proj-008",
+      "title": "Jumga E-Commerce",
+      "date": "2020",
+      "category": "E-Commerce",
+      "description": "E-commerce storefront integrated with Flutterwave payment APIs for checkout and transaction handling.",
+      "tech": ["CSS", "Payments", "Flutterwave"],
+      "image_url": "assets/images/project-jumga.svg",
+      "link": "https://github.com/kingakidi/jumga"
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-001",
+      "institution": "Ahmadu Bello University, Zaria",
+      "credential": "B.Eng. Computer Engineering",
+      "startYear": 2019,
+      "endYear": 2026,
+      "description": "Undergraduate programme covering hardware/software systems, networking, embedded systems, AI, and software engineering practice."
+    },
+    {
+      "id": "edu-002",
+      "institution": "ALX Software Engineering",
+      "credential": "Full-Stack Engineering Track",
+      "startYear": 2022,
+      "endYear": 2023,
+      "description": "Intensive full-stack and systems engineering training covering Linux, shell, C, Git, and modern web development workflows."
+    }
+  ],
+  "skills": {
+    "languages": [
+      { "name": "Python", "level": 90 },
+      { "name": "JavaScript / TypeScript", "level": 88 },
+      { "name": "PHP", "level": 80 },
+      { "name": "HTML5 & CSS3", "level": 92 },
+      { "name": "SQL", "level": 82 }
+    ],
+    "frameworks": [
+      { "name": "Django / DRF", "level": 88 },
+      { "name": "Vue / Nuxt", "level": 85 },
+      { "name": "NestJS / Express", "level": 80 },
+      { "name": "Laravel", "level": 75 },
+      { "name": "React / Next.js", "level": 72 }
+    ],
+    "domains": [
+      { "name": "REST APIs & Auth", "level": 90 },
+      { "name": "AI / ML / NLP", "level": 78 },
+      { "name": "Docker & Deployment", "level": 80 },
+      { "name": "Cloud (AWS / S3 / Lambda)", "level": 70 },
+      { "name": "System Design", "level": 75 }
+    ]
+  },
+  "hobbies": [
+    {
+      "id": "hob-001",
+      "title": "Open-Source Building",
+      "description": "Shipping personal and collaborative repositories across backend, frontend, and AI stacks on GitHub."
+    },
+    {
+      "id": "hob-002",
+      "title": "Product Prototyping",
+      "description": "Turning classroom and real-world ideas into working APIs, dashboards, and digital products."
+    },
+    {
+      "id": "hob-003",
+      "title": "Learning Emerging Tech",
+      "description": "Exploring deep learning, NLP, cloud automation, and modern TypeScript backends."
+    },
+    {
+      "id": "hob-004",
+      "title": "Problem Solving",
+      "description": "Breaking complex engineering problems into clean architectures and practical implementations."
+    }
+  ]
+}
